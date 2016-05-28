@@ -5,4 +5,7 @@
     <p>{{ site.lead }}
     </p>
 	</header>
+  {% unless page.title %}
+  {% include ad.html %}
+  {% endunless %}
 </section>
