@@ -1,20 +1,28 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+name: プログラミング2020
+title: 絵本から始めるプログラミング
+lead: 現役エンジニア＆2児の父の視点でプログラミング教育について情報発信！
+email: programming2020@programming2020.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
+keywords: "Jekyll, theme, free, download, SEO, blog, web"
 baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://programming2020.com" # the base hostname & protocol for your site
+twitter_username: programming2020
+github_username:  programming2020
 
 # Build settings
 markdown: kramdown
 
 paginate: 4
 
-author: Your name
+author: プログラミング2020
 
 gems: [jekyll-paginate]
+
+links:
+  about:
+    label: このサイトについて
+    href: /2016/05/19/about.html
