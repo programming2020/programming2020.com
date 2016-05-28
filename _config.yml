@@ -3,7 +3,7 @@ name: プログラミング2020
 title: 絵本から始めるプログラミング
 lead: 現役エンジニア＆2児の父の視点でプログラミング教育について情報発信！
 email: programming2020@programming2020.com
-description: "2020年から小学校でプログラミングが必修化される！？現役のエンジニアで、2人の子どもの親である筆者が、プログラムやコンピューターの教育について無料で情報を発信。お勧めの本や教え方、学習のコツ、ニュース、塾に関してなど、様々な記事を掲載。"
+description: "2020年から小学校でプログラミングが必修化される！？本職のプログラマで、2人の子どもの親である筆者が、プログラムやコンピューターの教育について無料で情報を発信。お勧めの本や教え方、学習のコツ、ニュース、塾に関してなど、様々な記事を掲載。"
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://programming2020.com" # the base hostname & protocol for your site
 twitter_username: programming2020
