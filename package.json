@@ -1,0 +1,8 @@
+{
+  "name": "programming2020",
+  "version": "1.0.0",
+  "devDependencies": {
+    "textlint": "^6.8.0",
+    "textlint-rule-preset-japanese": "^1.3.2"
+  }
+}
