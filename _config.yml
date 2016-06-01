@@ -19,7 +19,9 @@ paginate: 4
 
 author: プログラミング2020
 
-gems: [jekyll-paginate]
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
 
 links:
   about:
