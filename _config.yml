@@ -11,6 +11,9 @@ github_username:  programming2020
 
 # Build settings
 markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: true
 
 paginate: 4
 
