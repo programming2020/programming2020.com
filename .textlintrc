@@ -1,5 +1,7 @@
 {
   "rules": {
-    "preset-japanese": true
+    "preset-japanese": {
+      "spellcheck-tech-word": false
+    }
   }
 }
